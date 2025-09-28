@@ -58,7 +58,9 @@ L'ecosistema **SA-MP Query** comprende un insieme di implementazioni ufficiali, 
 
 ### Elenco delle librerie
 
-- Nessuna al momento.
+| Lingua | Nome                | Link alla Libreria/Documentazione         | Scarica                                                                             |
+| ------ | ------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------- |
+| PHP    | **SA-MP Query PHP** | [Controlla Libreria](../../libraries/php) | [Clicca Qui](https://github.com/spc-samp/samp-query/releases/download/v1.0/php.zip) |
 
 ## Licenza
 

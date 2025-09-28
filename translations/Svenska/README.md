@@ -58,7 +58,9 @@ Ekosystemet **SA-MP Query** omfattar en uppsättning officiella implementeringar
 
 ### Lista över bibliotek
 
-- Inga för tillfället.
+| Språk | Namn                | Länk till Bibliotek/Dokumentation            | Ladda Ner                                                                           |
+| ----- | ------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------- |
+| PHP   | **SA-MP Query PHP** | [Kontrollera Bibliotek](../../libraries/php) | [Klicka Här](https://github.com/spc-samp/samp-query/releases/download/v1.0/php.zip) |
 
 ## Licens
 

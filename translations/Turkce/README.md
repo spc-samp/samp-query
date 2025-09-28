@@ -58,7 +58,9 @@ Odak noktası doğruluk, performans ve bakım kolaylığıdır, böylece sunucu 
 
 ### Kütüphane Listesi
 
-- Şu anda yok.
+| Dil | Adı                 | Kütüphane/Dökümantasyon Linki                 | İndir                                                                                 |
+| --- | ------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------- |
+| PHP | **SA-MP Query PHP** | [Kütüphaneyi Kontrol Et](../../libraries/php) | [Buraya Tıkla](https://github.com/spc-samp/samp-query/releases/download/v1.0/php.zip) |
 
 ## Lisans
 
